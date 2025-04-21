@@ -19,10 +19,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arbnortasholli&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
 </p>
 
-<p align="center">
-  Visitor Count <br>
-  <img src="https://profile-counter.glitch.me/arbnortasholli/count.svg" alt="Visitor Count">
-</p>
-
-
-
