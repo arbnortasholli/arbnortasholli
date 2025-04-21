@@ -2,13 +2,13 @@
 # Hi there 👋
 
 <p align="center">
-  🚀 **About Me** <br> 
-  💻 Currently studying **Computer and Software Engineering** at **University of Prishtina**.  <br>
-  🌱 Interested in **Embedded Systems**, **Machine Learning**, **IoT**, and **Software Development**. <br>
+  🚀 <strong>About Me</strong> <br> 
+  💻 Currently studying <strong>Computer and Software Engineering</strong> at <strong>University of Prishtina</strong>.  <br>
+  🌱 Interested in <strong>Embedded Systems</strong>, <strong>Machine Learning</strong>, <strong>IoT</strong>, and <strong>Software Development</strong>. <br>
 </p>
 
 <p align="center">
-  📬 **Contact**  <br>
+  📬 <strong>Contact</strong>  <br>
   📧 Email: [arbnor.tasholli@student.uni-pr.edu](mailto:arbnor.tasholli@student.uni-pr.edu)
 </p>
 
