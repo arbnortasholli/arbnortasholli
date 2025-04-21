@@ -1,5 +1,5 @@
 
-<p style="font-size: 18px;"># Hi there 👋</p>
+<p font-size: 18px;># Hi there 👋</p>
 
 <p align="left">
   🚀 <strong>About Me</strong> <br> 
