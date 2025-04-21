@@ -1,16 +1,18 @@
 
-# Hi there 👋
+<p style="font-size: 18px;"># Hi there 👋</p>
 
-<p align="center">
+<p align="left">
   🚀 <strong>About Me</strong> <br> 
   💻 Currently studying <strong>Computer and Software Engineering</strong> at <strong>University of Prishtina</strong>.  <br>
   🌱 Interested in <strong>Embedded Systems</strong>, <strong>Machine Learning</strong>, <strong>IoT</strong>, and <strong>Software Development</strong>. <br>
 </p>
 
-<p align="center">
-  📬 <strong>Contact</strong>  <br>
-  📧 Email: [arbnor.tasholli@student.uni-pr.edu](mailto:arbnor.tasholli@student.uni-pr.edu)
+<p align="left">
+  📬 <strong>Contact</strong>  
+  <br>
+  📧 Email: <a href="mailto:arbnor.tasholli@student.uni-pr.edu">arbnor.tasholli@student.uni-pr.edu</a>
 </p>
+
 
 <p align="center">
   Github stats<br>
