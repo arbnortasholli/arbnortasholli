@@ -10,7 +10,7 @@
 <p align="left">
   📬 <strong>Contact</strong>  
   <br>
-  📧 Email: <a href="mailto:arbnor.tasholli@student.uni-pr.edu">arbnor.tasholli@student.uni-pr.edu</a>
+  📧 Email: <a href="mailto:noltasholli@gmail.com">noltasholli@gmail.com</a>
 </p>
 
 
