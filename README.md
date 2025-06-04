@@ -19,8 +19,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arbnortasholli&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
 </p>
 
-
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/arbnortasholli-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arbnortasholli)
-[![Facebook](https://img.shields.io/badge/Facebook-arbnor.tasholli16-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/arbnor.tasholli16)
